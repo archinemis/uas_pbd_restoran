@@ -1,0 +1,91 @@
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\bin\Debug\Procret.exe.config
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\bin\Debug\Procret.exe
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\bin\Debug\Procret.pdb
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\bin\Debug\Procret.xml
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.Form1.resources
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.Resources.resources
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.vbproj.GenerateResource.Cache
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.exe
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.xml
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.pdb
+C:\Users\Denandra\Documents\Visual Studio 2015\Projects\Procret\Procret\obj\Debug\Procret.vbprojResolveAssemblyReference.cache
+C:\Users\Denandra\Documents\Visual Studio 2015\Projects\Procret\Procret\bin\Debug\MaterialSkin.dll
+C:\Users\Denandra\Documents\Visual Studio 2015\Projects\Procret\Procret\obj\Debug\Procret.Awal.resources
+C:\Users\Denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.User.resources
+F:\Procret\Procret\bin\Debug\Procret.exe.config
+F:\Procret\Procret\obj\Debug\Procret.exe
+F:\Procret\Procret\obj\Debug\Procret.xml
+F:\Procret\Procret\obj\Debug\Procret.pdb
+F:\Procret\Procret\bin\Debug\Procret.exe
+F:\Procret\Procret\bin\Debug\Procret.pdb
+F:\Procret\Procret\bin\Debug\Procret.xml
+F:\Procret\Procret\bin\Debug\MaterialSkin.dll
+F:\Procret\Procret\obj\Debug\Procret.vbprojResolveAssemblyReference.cache
+F:\Procret\Procret\obj\Debug\Procret.Form1.resources
+F:\Procret\Procret\obj\Debug\Procret.Awal.resources
+F:\Procret\Procret\obj\Debug\Procret.Resources.resources
+F:\Procret\Procret\obj\Debug\Procret.User.resources
+F:\Procret\Procret\obj\Debug\Procret.vbproj.GenerateResource.Cache
+C:\Users\ROFI\Videos\Procret\Procret\bin\Debug\Procret.exe.config
+C:\Users\ROFI\Videos\Procret\Procret\obj\Debug\Procret.exe
+C:\Users\ROFI\Videos\Procret\Procret\obj\Debug\Procret.xml
+C:\Users\ROFI\Videos\Procret\Procret\obj\Debug\Procret.pdb
+C:\Users\ROFI\Videos\Procret\Procret\bin\Debug\Procret.exe
+C:\Users\ROFI\Videos\Procret\Procret\bin\Debug\Procret.pdb
+C:\Users\ROFI\Videos\Procret\Procret\bin\Debug\Procret.xml
+C:\Users\ROFI\Videos\Procret\Procret\bin\Debug\MaterialSkin.dll
+C:\Users\ROFI\Videos\Procret\Procret\obj\Debug\Procret.vbprojResolveAssemblyReference.cache
+C:\Users\ROFI\Videos\Procret\Procret\obj\Debug\Procret.Form1.resources
+C:\Users\ROFI\Videos\Procret\Procret\obj\Debug\Procret.Awal.resources
+C:\Users\ROFI\Videos\Procret\Procret\obj\Debug\Procret.Resources.resources
+C:\Users\ROFI\Videos\Procret\Procret\obj\Debug\Procret.User.resources
+C:\Users\ROFI\Videos\Procret\Procret\obj\Debug\Procret.vbproj.GenerateResource.Cache
+D:\UTS PBD\Procret\Procret\bin\Debug\Procret.exe.config
+D:\UTS PBD\Procret\Procret\obj\Debug\Procret.exe
+D:\UTS PBD\Procret\Procret\obj\Debug\Procret.xml
+D:\UTS PBD\Procret\Procret\obj\Debug\Procret.pdb
+D:\UTS PBD\Procret\Procret\bin\Debug\Procret.exe
+D:\UTS PBD\Procret\Procret\bin\Debug\Procret.pdb
+D:\UTS PBD\Procret\Procret\bin\Debug\Procret.xml
+D:\UTS PBD\Procret\Procret\bin\Debug\MaterialSkin.dll
+D:\UTS PBD\Procret\Procret\obj\Debug\Procret.vbprojResolveAssemblyReference.cache
+D:\UTS PBD\Procret\Procret\obj\Debug\Procret.Form1.resources
+D:\UTS PBD\Procret\Procret\obj\Debug\Procret.Awal.resources
+D:\UTS PBD\Procret\Procret\obj\Debug\Procret.Resources.resources
+D:\UTS PBD\Procret\Procret\obj\Debug\Procret.User.resources
+D:\UTS PBD\Procret\Procret\obj\Debug\Procret.vbproj.GenerateResource.Cache
+D:\UTS PBD\Procret\Procret\obj\Debug\Procret.Pembelian.resources
+D:\UAS PBD\Procret\Procret\bin\Debug\Procret.exe.config
+D:\UAS PBD\Procret\Procret\obj\Debug\Procret.exe
+D:\UAS PBD\Procret\Procret\obj\Debug\Procret.xml
+D:\UAS PBD\Procret\Procret\obj\Debug\Procret.pdb
+D:\UAS PBD\Procret\Procret\bin\Debug\Procret.exe
+D:\UAS PBD\Procret\Procret\bin\Debug\Procret.pdb
+D:\UAS PBD\Procret\Procret\bin\Debug\Procret.xml
+D:\UAS PBD\Procret\Procret\bin\Debug\MaterialSkin.dll
+D:\UAS PBD\Procret\Procret\bin\Debug\System.Net.Http.dll
+D:\UAS PBD\Procret\Procret\bin\Debug\System.Net.Http.xml
+D:\UAS PBD\Procret\Procret\obj\Debug\Procret.vbprojResolveAssemblyReference.cache
+D:\UAS PBD\Procret\Procret\obj\Debug\Procret.Form1.resources
+D:\UAS PBD\Procret\Procret\obj\Debug\Procret.Awal.resources
+D:\UAS PBD\Procret\Procret\obj\Debug\Procret.Pembelian.resources
+D:\UAS PBD\Procret\Procret\obj\Debug\Procret.Resources.resources
+D:\UAS PBD\Procret\Procret\obj\Debug\Procret.User.resources
+D:\UAS PBD\Procret\Procret\obj\Debug\Procret.vbproj.GenerateResource.Cache
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\bin\Debug\Procret.exe.config
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\obj\Debug\Procret.exe
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\obj\Debug\Procret.xml
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\obj\Debug\Procret.pdb
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\bin\Debug\Procret.exe
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\bin\Debug\Procret.pdb
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\bin\Debug\Procret.xml
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\bin\Debug\MaterialSkin.dll
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\obj\Debug\Procret.vbprojResolveAssemblyReference.cache
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\obj\Debug\Procret.Form1.resources
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\obj\Debug\Procret.Pembelian.resources
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\obj\Debug\Procret.Resources.resources
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\obj\Debug\Procret.User.resources
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\obj\Debug\Procret.vbproj.GenerateResource.Cache
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\obj\Debug\Procret.daftar_menu.resources
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\obj\Debug\Procret.welcome.resources
+C:\Users\BBG\Documents\Della Titip\UAS PBD\Procret\Procret\obj\Debug\Procret.pesan_menu.resources
